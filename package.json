@@ -2,7 +2,9 @@
   "name": "scoreboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://morganolsen.github.io/react-scoreboard",
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "prop-types": "^15.7.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
